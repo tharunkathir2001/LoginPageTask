@@ -1,0 +1,2 @@
+C:\Users\ASUS\source\repos\LoginPageTask\obj\Debug\loginpagetask.esproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\LoginPageTask\obj\Debug\loginpagetask.esproj.CoreCompileInputs.cache
